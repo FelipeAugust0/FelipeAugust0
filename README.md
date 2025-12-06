@@ -1,4 +1,4 @@
-# 👨‍💻 Eu sou Felipe Augusto <br>
+# Eu sou Felipe Augusto <br>
 
 *Desenvolvedor* <br>
 
@@ -12,7 +12,7 @@ Me chamo Felipe Augusto da Silva, tenho 18 anos e moro em São Carlos-SP. Conclu
 
 ---
 
-### 🛠️ Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
