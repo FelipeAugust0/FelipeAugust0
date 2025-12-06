@@ -1,8 +1,8 @@
 # Eu sou Felipe Augusto <br>
 
-*Desenvolvedor* <br>
+*Desenvolvedor novato* <br>
 
-Me chamo Felipe Augusto da Silva, tenho 18 anos e moro em São Carlos-SP. Concluí o ensino médio, e atualmente estou cursando o Tecnólogo em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia SENAI São Carlos, enquanto trabalho na Tapetes São Carlos como Técnico de TI. Você pode me conhecer melhor através do meu LinkedIn, com o perfil chamado "[Felipe Augusto da Silva](https://www.linkedin.com/in/felipe-augusto-da-silva-292661265/)" ou no Instagram, com o perfil chamado "[felipe.august0_](https://www.instagram.com/felipe.august0_/)".
+Me chamo Felipe Augusto da Silva, tenho 19 anos e moro em São Carlos-SP. Concluí o ensino médio, e atualmente estou cursando o Tecnólogo em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia SENAI São Carlos, enquanto trabalho na Tapetes São Carlos como Técnico de TI. Você pode me conhecer melhor através do meu LinkedIn, com o perfil chamado "[Felipe Augusto da Silva](https://www.linkedin.com/in/felipe-augusto-da-silva-292661265/)" ou no Instagram, com o perfil chamado "[felipe.august0_](https://www.instagram.com/felipe.august0_/)".
 
 <div> 
     <a href="https://instagram.com/felipe.august0_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
