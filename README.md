@@ -27,4 +27,11 @@ Redes de computadores, administração de servidores, automação e segurança d
 
 ## 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/felipe-augusto-da-silva-292661265/) · [E-mail](mailto:lipe.augusto2013@gmail.com)
+<div>
+    <a href="mailto:lipe.augusto2013@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/felipe-augusto-da-silva-292661265/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</div>
