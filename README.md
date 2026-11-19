@@ -1,4 +1,4 @@
-# Olá, eu sou Felipe Augusto 👋
+# Olá, eu sou Felipe Augusto
 
 ### Técnico de TI | Infraestrutura e Redes | Estudos em Cibersegurança
 
@@ -6,7 +6,7 @@ Atuo na **Tapetes São Carlos**, com suporte técnico, manutenção de equipamen
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas no SENAI São Carlos** e direciono meus estudos para atuar como **Analista de Infraestrutura**.
 
-📍 São Carlos — SP
+📍 São Carlos - SP
 
 ## 🛠️ Conhecimentos e ferramentas
 
